@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://barstoff.github.io"
+url: "http://fbargaglistoffi.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Falco J. Bargagli Stoffi 
+title: Falco J. Bargagli-Stoffi 
 
 # Short description of your site
 description: Falco's personal webppage
@@ -33,10 +33,10 @@ description: Falco's personal webppage
 
 # List of links in the navigation bar
 navbar-links:
-  About me: "http://barstoff.github.io"
+  About me: "http://fbargaglistoffi.github.io"
   Research: "research"
   Teaching: "teaching"
-  Blog: "_posts"
+  Blog: "blog"
   CV: "img/fbargaglistoffi_cv.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -82,7 +82,7 @@ social-network-links:
   rss: true
   email: "falco.bargaglistoffi@imtlucca.it"
 # facebook: deanattali
-  github: barstoff
+  github: fbargaglistoffi
   twitter: FalcoBargagli
 #  reddit: yourname
 #  linkedin: daattali
