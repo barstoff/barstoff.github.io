@@ -22,7 +22,7 @@ _Selected publications and pre-prints by topic listed below._
 
 <center> <strong style="font-size: 135%;"> Predictive machine learning </strong> </center>
 
-+ <u>Bargagli-Stoffi, F. J.</u>, Riccaboni, M., Rungi A. (2020). Machine Learning for Zombie Hunting. Firms' Failures and Financial Constraints. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3588410">KU Leuven, Discussion Paper Series</a>.
+
 
 <strong style="font-size: 110%;"> Additional materials </strong> 
 
