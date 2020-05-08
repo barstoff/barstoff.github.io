@@ -20,9 +20,7 @@ _Selected publications and pre-prints by topic listed below._
 
 + **Software:** <a href="https://github.com/fbargaglistoffi/BCF-IV">BCF-IV</a> R function.
 
-<div align="center"><strong style="font-size: 135%;"> Predictive machine learning </strong></div>
-
-
+<div align="center"><strong style="font-size: 135%;"> Predictive machine learning </strong></div><br>
 
 + <u>Bargagli-Stoffi, F. J.</u>, Riccaboni, M., Rungi A. (2020). Machine Learning for Zombie Hunting. Firms' Failures and Financial Constraints. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3588410">KU Leuven, Discussion Paper Series</a>.
 
