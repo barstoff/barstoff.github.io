@@ -18,4 +18,4 @@ _Selected publications by topic listed below._
 
 + **Conference presentations:** <a href="https://isabelfulcher.github.io/img/jsm2017.pdf">ACIC 2019</a>;
 
-+ **Software:** <a href="https://github.com/fbargaglistoffi/BCF-IV">frontdoorpiie</a> R function  <br /> <br />
++ **Software:** <a href="https://github.com/fbargaglistoffi/BCF-IV">BCF-IV</a> R function  <br /> <br />
