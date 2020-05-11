@@ -12,7 +12,7 @@ _Selected publications and pre-prints by topic listed below._
 
 + <u>Bargagli-Stoffi, F. J.</u>, De Witte, K. & Gnecco. G. (2019) Heterogeneous causal effects with imperfect compliance: a novel Bayesian machine learning approach. In revision. <a href="https://arxiv.org/abs/1905.12707"> arXiv preprint arXiv:1905.12707</a>. 
 
-+ <u>Bargagli-Stoffi, F. J.</u>, Gnecco, G. (2019). Estimating Heterogeneous Causal Effects in the Presence of Irregular Assignment Mechanisms <a href="https://ieeexplore.ieee.org/document/8631451">IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)</a>.
++ <u>Bargagli-Stoffi, F. J.</u>, Gnecco, G. (2018). Estimating Heterogeneous Causal Effects in the Presence of Irregular Assignment Mechanisms <a href="https://ieeexplore.ieee.org/document/8631451">IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)</a>.
 
 <strong style="font-size: 110%;"> Additional materials </strong> 
 
